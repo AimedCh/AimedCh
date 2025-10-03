@@ -4,18 +4,10 @@
 
 ---
 
-## 🧑‍💻 About Me  
-- 🔭 Currently working on personal web projects (Laravel, JS, TS)  
-- 🌱 Always learning & improving my skills in full-stack development  
-- 💡 Interested in **backend systems, APIs, and clean architecture**  
-- 🤝 Open to collaboration & open source contributions  
-
----
-
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,react,tailwind,bootstrap,laravel,git,github,vscode" />
 </p>
 
 ---
@@ -24,10 +16,12 @@
 
 | 📂 Project | 📖 Description | ⚙️ Tech |
 |------------|---------------|----------|
-| [**PaginaDeAcceso**](https://github.com/AimedCh/PaginaDeAcceso) | Simple login page | ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
-| [**crudlaravel**](https://github.com/AimedCh/crudlaravel) | CRUD client management app | ![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white) |
+| [**VivacWeb**](https://github.com/AimedCh/VivacWeb) | Laravel web app for outdoor routes & community | ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white) |
+| [**finalproject**](https://github.com/AimedCh/finalproject) | Full-stack platform (Store + Rentals + Auto Workshop) | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) |
+| [**chebili.dev**](https://github.com/AimedCh/chebili.dev) | Portfolio website | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) |
+| [**crudlaravel**](https://github.com/AimedCh/crudlaravel) | CRUD client management app | ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white) ![Blade](https://img.shields.io/badge/-Blade-purple?logo=laravel&logoColor=white) |
+| [**temaOscuroBootstrap**](https://github.com/AimedCh/temaOscuroBootstrap) | Dark theme UI with Bootstrap | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
 | [**Juego-De-Memoria**](https://github.com/AimedCh/Juego-De-Memoria) | Memory matching game | ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
-| [**finalproject**](https://github.com/AimedCh/finalproject) | Full-stack platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white) ![Backend](https://img.shields.io/badge/-Backend-black) |
 | [**Generador-de-Contrasenas**](https://github.com/AimedCh/Generador-de-Contrasenas) | Random password generator | ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
 
 ---
@@ -58,4 +52,3 @@
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repos and reach out.* 🚀
-  
