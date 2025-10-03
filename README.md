@@ -6,8 +6,30 @@
 
 ## 🛠️ Tech Stack  
 
+### 📝 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,react,tailwind,bootstrap,laravel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java" />
+</p>
+
+---
+
+### ⚙️ Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,bootstrap,laravel,symfony,nodejs,express,spring,javafx,wordpress,sass" />
+</p>
+
+---
+
+### 🗄️ Databases & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,vscode,linux" />
+  <br/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AJAX-0062CC?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UML-02569B?logo=uml&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mockups-FF4088?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -38,7 +60,7 @@
 ## 🔥 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimedCh&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimedCh&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Languages" />
 </p>
 
 ---
@@ -53,7 +75,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
   <a href="https://www.tiktok.com/@aimed_k9_" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok.png" width="40"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
