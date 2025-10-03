@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Aimed Dine (AimedCh)**  
+# 👋 Hi, I’m **Aimed Dine Chebili (AimedCh)**  
 
 💻 Full-Stack Developer in progress • 🌍 Based in Spain • 🚀 Passionate about coding & web technologies  
 
@@ -32,6 +32,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AimedCh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AimedCh&theme=tokyonight" alt="GitHub Streak" height="160"/>  
 </p>  
+
+---
+
+## 🔥 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimedCh&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
+</p>
 
 ---
 
