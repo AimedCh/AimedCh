@@ -57,13 +57,7 @@
 
 ---
 
-## 🔥 Most Used Languages  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimedCh&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
@@ -73,9 +67,6 @@
   </a>
   <a href="https://www.instagram.com/_aimed_dine_ch_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-  </a>
-  <a href="https://www.tiktok.com/@aimed_k9_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
